@@ -7,3 +7,4 @@
 | 5 | [Median of Two Sorted Arrays](./LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays) | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | 28 Sept 2026 | 09:36 pm |
 | 6 | [Longest Palindromic Substring](./LeetCode/Medium/Longest%20Palindromic%20Substring) | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 28 Sept 2026 | 09:37 pm |
 | 7 | [Rearrange Array by Removing Distinct Values](./LeetCode/Easy/Rearrange%20Array%20by%20Removing%20Distinct%20Values) | [LeetCode](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/) | Easy | 28 Sept 2026 | 09:38 pm |
+| 8 | [Maximum Equal Adjacent Pairs After at Most One Replacement](./LeetCode/Medium/Maximum%20Equal%20Adjacent%20Pairs%20After%20at%20Most%20One%20Replacement) | [LeetCode](https://leetcode.com/problems/maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium | 28 Sept 2026 | 09:38 pm |
