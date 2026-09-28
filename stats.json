@@ -1,12 +1,12 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-09-28",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 4,
+    "medium": 5,
     "hard": 1,
     "basic": 0
   },
@@ -18,10 +18,11 @@
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
     "LeetCode_Longest_Palindromic_Substring": true,
     "LeetCode_Rearrange_Array_by_Removing_Distinct_Values": true,
-    "LeetCode_Maximum_Equal_Adjacent_Pairs_After_at_Most_One_Replacement": true
+    "LeetCode_Maximum_Equal_Adjacent_Pairs_After_at_Most_One_Replacement": true,
+    "LeetCode_Longest_Subarray_With_Restricted_Pair_Sums": true
   },
   "activityHistory": {
-    "2026-09-28": 8
+    "2026-09-28": 9
   },
   "todayProblems": [
     "Maximum Nesting Depth of the Parentheses",
@@ -31,6 +32,7 @@
     "Median of Two Sorted Arrays",
     "Longest Palindromic Substring",
     "Rearrange Array by Removing Distinct Values",
-    "Maximum Equal Adjacent Pairs After at Most One Replacement"
+    "Maximum Equal Adjacent Pairs After at Most One Replacement",
+    "Longest Subarray With Restricted Pair Sums"
   ]
 }
