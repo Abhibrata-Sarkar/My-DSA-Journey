@@ -2,3 +2,4 @@
 |---|---------|----------|------------|-------------|------|
 | 1 | [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | 28 Sept 2026 | 09:31 pm |
 | 2 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 28 Sept 2026 | 09:33 pm |
+| 3 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 28 Sept 2026 | 09:34 pm |
