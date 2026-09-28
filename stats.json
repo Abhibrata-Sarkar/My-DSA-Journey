@@ -1,26 +1,28 @@
 {
-  "totalSolved": 3,
+  "totalSolved": 4,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-09-28",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
     "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true,
     "LeetCode_Two_Sum": true,
-    "LeetCode_Add_Two_Numbers": true
+    "LeetCode_Add_Two_Numbers": true,
+    "LeetCode_Longest_Substring_Without_Repeating_Characters": true
   },
   "activityHistory": {
-    "2026-09-28": 3
+    "2026-09-28": 4
   },
   "todayProblems": [
     "Maximum Nesting Depth of the Parentheses",
     "Two Sum",
-    "Add Two Numbers"
+    "Add Two Numbers",
+    "Longest Substring Without Repeating Characters"
   ]
 }
