@@ -1,12 +1,12 @@
 {
-  "totalSolved": 10,
+  "totalSolved": 11,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-09-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 5,
+    "medium": 6,
     "hard": 2,
     "basic": 0
   },
@@ -20,13 +20,15 @@
     "LeetCode_Rearrange_Array_by_Removing_Distinct_Values": true,
     "LeetCode_Maximum_Equal_Adjacent_Pairs_After_at_Most_One_Replacement": true,
     "LeetCode_Longest_Subarray_With_Restricted_Pair_Sums": true,
-    "LeetCode__Check_if_There_Is_a_Valid_Parentheses_String_Path": true
+    "LeetCode__Check_if_There_Is_a_Valid_Parentheses_String_Path": true,
+    "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true
   },
   "activityHistory": {
     "2026-09-28": 9,
-    "2026-09-29": 1
+    "2026-09-29": 2
   },
   "todayProblems": [
-    " Check if There Is a Valid Parentheses String Path"
+    " Check if There Is a Valid Parentheses String Path",
+    "Reverse Substrings Between Each Pair of Parentheses"
   ]
 }
