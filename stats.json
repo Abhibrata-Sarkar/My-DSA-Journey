@@ -1,13 +1,13 @@
 {
-  "totalSolved": 9,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-09-28",
-  "todayCount": 9,
+  "totalSolved": 10,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-09-29",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
     "medium": 5,
-    "hard": 1,
+    "hard": 2,
     "basic": 0
   },
   "syncedProblems": {
@@ -19,20 +19,14 @@
     "LeetCode_Longest_Palindromic_Substring": true,
     "LeetCode_Rearrange_Array_by_Removing_Distinct_Values": true,
     "LeetCode_Maximum_Equal_Adjacent_Pairs_After_at_Most_One_Replacement": true,
-    "LeetCode_Longest_Subarray_With_Restricted_Pair_Sums": true
+    "LeetCode_Longest_Subarray_With_Restricted_Pair_Sums": true,
+    "LeetCode__Check_if_There_Is_a_Valid_Parentheses_String_Path": true
   },
   "activityHistory": {
-    "2026-09-28": 9
+    "2026-09-28": 9,
+    "2026-09-29": 1
   },
   "todayProblems": [
-    "Maximum Nesting Depth of the Parentheses",
-    "Two Sum",
-    "Add Two Numbers",
-    "Longest Substring Without Repeating Characters",
-    "Median of Two Sorted Arrays",
-    "Longest Palindromic Substring",
-    "Rearrange Array by Removing Distinct Values",
-    "Maximum Equal Adjacent Pairs After at Most One Replacement",
-    "Longest Subarray With Restricted Pair Sums"
+    " Check if There Is a Valid Parentheses String Path"
   ]
 }
