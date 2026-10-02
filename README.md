@@ -14,3 +14,4 @@
 | 12 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./LeetCode/Medium/Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | 30 Sept 2026 | 04:49 pm |
 | 13 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 01 Oct 2026 | 05:32 pm |
 | 14 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 02 Oct 2026 | 04:21 pm |
+| 15 | [Optimal Partition of String](./LeetCode/Medium/Optimal%20Partition%20of%20String) | [LeetCode](https://leetcode.com/problems/optimal-partition-of-string/) | Medium | 02 Oct 2026 | 04:27 pm |
