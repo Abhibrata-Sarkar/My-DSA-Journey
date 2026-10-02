@@ -1,12 +1,12 @@
 {
-  "totalSolved": 13,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-10-01",
+  "totalSolved": 14,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-10-02",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 7,
+    "medium": 8,
     "hard": 2,
     "basic": 0
   },
@@ -23,15 +23,17 @@
     "LeetCode__Check_if_There_Is_a_Valid_Parentheses_String_Path": true,
     "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true,
     "LeetCode_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings": true,
-    "LeetCode_Valid_Parentheses": true
+    "LeetCode_Valid_Parentheses": true,
+    "LeetCode_Generate_Parentheses": true
   },
   "activityHistory": {
     "2026-09-28": 9,
     "2026-09-29": 2,
     "2026-09-30": 1,
-    "2026-10-01": 1
+    "2026-10-01": 1,
+    "2026-10-02": 1
   },
   "todayProblems": [
-    "Valid Parentheses"
+    "Generate Parentheses"
   ]
 }
