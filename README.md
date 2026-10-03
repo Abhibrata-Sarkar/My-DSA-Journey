@@ -17,3 +17,4 @@
 | 15 | [Optimal Partition of String](./LeetCode/Medium/Optimal%20Partition%20of%20String) | [LeetCode](https://leetcode.com/problems/optimal-partition-of-string/) | Medium | 02 Oct 2026 | 04:27 pm |
 | 16 | [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | 03 Oct 2026 | 04:32 pm |
 | 17 | [Amount of Time for Binary Tree to Be Infected](./LeetCode/Medium/Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected) | [LeetCode](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium | 03 Oct 2026 | 04:39 pm |
+| 18 | [Find Score of an Array After Marking All Elements](./LeetCode/Medium/Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements) | [LeetCode](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | Medium | 03 Oct 2026 | 04:56 pm |
