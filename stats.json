@@ -1,11 +1,11 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-04",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 12,
     "hard": 3,
     "basic": 0
@@ -29,7 +29,8 @@
     "LeetCode_Longest_Valid_Parentheses": true,
     "LeetCode_Amount_of_Time_for_Binary_Tree_to_Be_Infected": true,
     "LeetCode_Find_Score_of_an_Array_After_Marking_All_Elements": true,
-    "LeetCode_Valid_Parenthesis_String": true
+    "LeetCode_Valid_Parenthesis_String": true,
+    "LeetCode_Minimum_Rotations_to_Dial_a_Number_I": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -38,9 +39,10 @@
     "2026-10-01": 1,
     "2026-10-02": 2,
     "2026-10-03": 3,
-    "2026-10-04": 1
+    "2026-10-04": 2
   },
   "todayProblems": [
-    "Valid Parenthesis String"
+    "Valid Parenthesis String",
+    "Minimum Rotations to Dial a Number I"
   ]
 }

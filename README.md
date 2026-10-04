@@ -19,3 +19,4 @@
 | 17 | [Amount of Time for Binary Tree to Be Infected](./LeetCode/Medium/Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected) | [LeetCode](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium | 03 Oct 2026 | 04:39 pm |
 | 18 | [Find Score of an Array After Marking All Elements](./LeetCode/Medium/Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements) | [LeetCode](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | Medium | 03 Oct 2026 | 04:56 pm |
 | 19 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 04 Oct 2026 | 07:08 pm |
+| 20 | [Minimum Rotations to Dial a Number I](./LeetCode/Easy/Minimum%20Rotations%20to%20Dial%20a%20Number%20I) | [LeetCode](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) | Easy | 04 Oct 2026 | 07:19 pm |
