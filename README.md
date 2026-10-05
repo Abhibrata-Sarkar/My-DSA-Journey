@@ -20,3 +20,4 @@
 | 18 | [Find Score of an Array After Marking All Elements](./LeetCode/Medium/Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements) | [LeetCode](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | Medium | 03 Oct 2026 | 04:56 pm |
 | 19 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 04 Oct 2026 | 07:08 pm |
 | 20 | [Minimum Rotations to Dial a Number I](./LeetCode/Easy/Minimum%20Rotations%20to%20Dial%20a%20Number%20I) | [LeetCode](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) | Easy | 04 Oct 2026 | 07:19 pm |
+| 21 | [Score of Parentheses](./LeetCode/Medium/Score%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/score-of-parentheses/) | Medium | 05 Oct 2026 | 06:49 pm |
