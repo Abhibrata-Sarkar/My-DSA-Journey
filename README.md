@@ -21,3 +21,4 @@
 | 19 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 04 Oct 2026 | 07:08 pm |
 | 20 | [Minimum Rotations to Dial a Number I](./LeetCode/Easy/Minimum%20Rotations%20to%20Dial%20a%20Number%20I) | [LeetCode](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) | Easy | 04 Oct 2026 | 07:19 pm |
 | 21 | [Score of Parentheses](./LeetCode/Medium/Score%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/score-of-parentheses/) | Medium | 05 Oct 2026 | 06:49 pm |
+| 22 | [Minimum Add to Make Parentheses Valid](./LeetCode/Medium/Minimum%20Add%20to%20Make%20Parentheses%20Valid) | [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | 06 Oct 2026 | 05:06 pm |
