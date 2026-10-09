@@ -1,11 +1,11 @@
 {
-  "totalSolved": 24,
-  "currentStreak": 11,
-  "maxStreak": 11,
-  "lastSyncDate": "2026-10-08",
+  "totalSolved": 25,
+  "currentStreak": 12,
+  "maxStreak": 12,
+  "lastSyncDate": "2026-10-09",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 14,
     "hard": 4,
     "basic": 0
@@ -34,7 +34,8 @@
     "LeetCode_Score_of_Parentheses": true,
     "LeetCode_Minimum_Add_to_Make_Parentheses_Valid": true,
     "LeetCode_Remove_Invalid_Parentheses": true,
-    "LeetCode_Remove_Outermost_Parentheses": true
+    "LeetCode_Remove_Outermost_Parentheses": true,
+    "LeetCode_Symmetric_Tree": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -47,9 +48,10 @@
     "2026-10-05": 1,
     "2026-10-06": 1,
     "2026-10-07": 1,
-    "2026-10-08": 1
+    "2026-10-08": 1,
+    "2026-10-09": 1
   },
   "todayProblems": [
-    "Remove Outermost Parentheses"
+    "Symmetric Tree"
   ]
 }
