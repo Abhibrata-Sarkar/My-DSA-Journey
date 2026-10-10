@@ -1,12 +1,12 @@
 {
-  "totalSolved": 26,
-  "currentStreak": 12,
-  "maxStreak": 12,
-  "lastSyncDate": "2026-10-09",
-  "todayCount": 2,
+  "totalSolved": 27,
+  "currentStreak": 13,
+  "maxStreak": 13,
+  "lastSyncDate": "2026-10-10",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 15,
+    "medium": 16,
     "hard": 4,
     "basic": 0
   },
@@ -36,7 +36,8 @@
     "LeetCode_Remove_Invalid_Parentheses": true,
     "LeetCode_Remove_Outermost_Parentheses": true,
     "LeetCode_Symmetric_Tree": true,
-    "LeetCode_Minimum_Insertions_to_Balance_a_Parentheses_String": true
+    "LeetCode_Minimum_Insertions_to_Balance_a_Parentheses_String": true,
+    "LeetCode_Minimum_Sum_of_Squared_Difference": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -50,10 +51,10 @@
     "2026-10-06": 1,
     "2026-10-07": 1,
     "2026-10-08": 1,
-    "2026-10-09": 2
+    "2026-10-09": 2,
+    "2026-10-10": 1
   },
   "todayProblems": [
-    "Symmetric Tree",
-    "Minimum Insertions to Balance a Parentheses String"
+    "Minimum Sum of Squared Difference"
   ]
 }
