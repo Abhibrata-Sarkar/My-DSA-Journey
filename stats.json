@@ -1,11 +1,11 @@
 {
-  "totalSolved": 27,
-  "currentStreak": 13,
-  "maxStreak": 13,
-  "lastSyncDate": "2026-10-10",
+  "totalSolved": 28,
+  "currentStreak": 14,
+  "maxStreak": 14,
+  "lastSyncDate": "2026-10-11",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 7,
+    "easy": 8,
     "medium": 16,
     "hard": 4,
     "basic": 0
@@ -37,7 +37,8 @@
     "LeetCode_Remove_Outermost_Parentheses": true,
     "LeetCode_Symmetric_Tree": true,
     "LeetCode_Minimum_Insertions_to_Balance_a_Parentheses_String": true,
-    "LeetCode_Minimum_Sum_of_Squared_Difference": true
+    "LeetCode_Minimum_Sum_of_Squared_Difference": true,
+    "LeetCode_Sum_of_Squares_of_Special_Elements_": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -52,9 +53,10 @@
     "2026-10-07": 1,
     "2026-10-08": 1,
     "2026-10-09": 2,
-    "2026-10-10": 1
+    "2026-10-10": 1,
+    "2026-10-11": 1
   },
   "todayProblems": [
-    "Minimum Sum of Squared Difference"
+    "Sum of Squares of Special Elements "
   ]
 }

@@ -27,3 +27,4 @@
 | 25 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 09 Oct 2026 | 07:59 am |
 | 26 | [Minimum Insertions to Balance a Parentheses String](./LeetCode/Medium/Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String) | [LeetCode](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium | 09 Oct 2026 | 07:59 am |
 | 27 | [Minimum Sum of Squared Difference](./LeetCode/Medium/Minimum%20Sum%20of%20Squared%20Difference) | [LeetCode](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium | 10 Oct 2026 | 06:18 am |
+| 28 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 09:30 pm |
