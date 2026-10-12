@@ -30,3 +30,4 @@
 | 28 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 09:30 pm |
 | 29 | [Apply Operations on Array to Maximize Sum of Squares](./LeetCode/Hard/Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | Hard | 12 Oct 2026 | 03:44 pm |
 | 30 | [Prime Subset Selection I](./LeetCode/Medium/Prime%20Subset%20Selection%20I) | [LeetCode](https://leetcode.com/problems/prime-subset-selection-i/) | Medium | 12 Oct 2026 | 05:07 pm |
+| 31 | [Longest Resilient Subarray II](./LeetCode/Medium/Longest%20Resilient%20Subarray%20II) | [LeetCode](https://leetcode.com/problems/longest-resilient-subarray-ii/) | Medium | 12 Oct 2026 | 05:13 pm |
