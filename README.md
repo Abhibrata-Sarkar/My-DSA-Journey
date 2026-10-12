@@ -35,3 +35,4 @@
 | 33 | [Maximum Product Pair With Target Sum](./LeetCode/Easy/Maximum%20Product%20Pair%20With%20Target%20Sum) | [LeetCode](https://leetcode.com/problems/maximum-product-pair-with-target-sum/) | Easy | 12 Oct 2026 | 05:14 pm |
 | 34 | [Three Fibonacci Sum](./LeetCode/Easy/Three%20Fibonacci%20Sum) | [LeetCode](https://leetcode.com/problems/three-fibonacci-sum/) | Easy | 12 Oct 2026 | 05:14 pm |
 | 35 | [Design Bus Seat Booking System](./LeetCode/Medium/Design%20Bus%20Seat%20Booking%20System) | [LeetCode](https://leetcode.com/problems/design-bus-seat-booking-system/) | Medium | 12 Oct 2026 | 11:12 pm |
+| 36 | [Insert Delete GetRandom O(1)](./LeetCode/Medium/Insert%20Delete%20GetRandom%20O(1)) | [LeetCode](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | 12 Oct 2026 | 11:35 pm |
