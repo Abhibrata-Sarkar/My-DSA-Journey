@@ -1,12 +1,12 @@
 {
-  "totalSolved": 31,
+  "totalSolved": 32,
   "currentStreak": 15,
   "maxStreak": 15,
   "lastSyncDate": "2026-10-12",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 18,
+    "medium": 19,
     "hard": 5,
     "basic": 0
   },
@@ -41,7 +41,8 @@
     "LeetCode_Sum_of_Squares_of_Special_Elements_": true,
     "LeetCode_Apply_Operations_on_Array_to_Maximize_Sum_of_Squares": true,
     "LeetCode_Prime_Subset_Selection_I": true,
-    "LeetCode_Longest_Resilient_Subarray_II": true
+    "LeetCode_Longest_Resilient_Subarray_II": true,
+    "LeetCode_Longest_Resilient_Subarray_I": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -58,11 +59,12 @@
     "2026-10-09": 2,
     "2026-10-10": 1,
     "2026-10-11": 1,
-    "2026-10-12": 3
+    "2026-10-12": 4
   },
   "todayProblems": [
     "Apply Operations on Array to Maximize Sum of Squares",
     "Prime Subset Selection I",
-    "Longest Resilient Subarray II"
+    "Longest Resilient Subarray II",
+    "Longest Resilient Subarray I"
   ]
 }
