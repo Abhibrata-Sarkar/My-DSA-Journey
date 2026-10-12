@@ -1,12 +1,12 @@
 {
-  "totalSolved": 34,
+  "totalSolved": 35,
   "currentStreak": 15,
   "maxStreak": 15,
   "lastSyncDate": "2026-10-12",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 19,
+    "medium": 20,
     "hard": 5,
     "basic": 0
   },
@@ -44,7 +44,8 @@
     "LeetCode_Longest_Resilient_Subarray_II": true,
     "LeetCode_Longest_Resilient_Subarray_I": true,
     "LeetCode_Maximum_Product_Pair_With_Target_Sum": true,
-    "LeetCode_Three_Fibonacci_Sum": true
+    "LeetCode_Three_Fibonacci_Sum": true,
+    "LeetCode_Design_Bus_Seat_Booking_System": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -61,7 +62,7 @@
     "2026-10-09": 2,
     "2026-10-10": 1,
     "2026-10-11": 1,
-    "2026-10-12": 6
+    "2026-10-12": 7
   },
   "todayProblems": [
     "Apply Operations on Array to Maximize Sum of Squares",
@@ -69,6 +70,7 @@
     "Longest Resilient Subarray II",
     "Longest Resilient Subarray I",
     "Maximum Product Pair With Target Sum",
-    "Three Fibonacci Sum"
+    "Three Fibonacci Sum",
+    "Design Bus Seat Booking System"
   ]
 }

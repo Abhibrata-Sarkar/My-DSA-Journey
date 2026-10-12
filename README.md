@@ -34,3 +34,4 @@
 | 32 | [Longest Resilient Subarray I](./LeetCode/Medium/Longest%20Resilient%20Subarray%20I) | [LeetCode](https://leetcode.com/problems/longest-resilient-subarray-i/) | Medium | 12 Oct 2026 | 05:13 pm |
 | 33 | [Maximum Product Pair With Target Sum](./LeetCode/Easy/Maximum%20Product%20Pair%20With%20Target%20Sum) | [LeetCode](https://leetcode.com/problems/maximum-product-pair-with-target-sum/) | Easy | 12 Oct 2026 | 05:14 pm |
 | 34 | [Three Fibonacci Sum](./LeetCode/Easy/Three%20Fibonacci%20Sum) | [LeetCode](https://leetcode.com/problems/three-fibonacci-sum/) | Easy | 12 Oct 2026 | 05:14 pm |
+| 35 | [Design Bus Seat Booking System](./LeetCode/Medium/Design%20Bus%20Seat%20Booking%20System) | [LeetCode](https://leetcode.com/problems/design-bus-seat-booking-system/) | Medium | 12 Oct 2026 | 11:12 pm |
