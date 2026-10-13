@@ -1,12 +1,12 @@
 {
-  "totalSolved": 37,
+  "totalSolved": 38,
   "currentStreak": 16,
   "maxStreak": 16,
   "lastSyncDate": "2026-10-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 22,
+    "medium": 23,
     "hard": 5,
     "basic": 0
   },
@@ -47,7 +47,8 @@
     "LeetCode_Three_Fibonacci_Sum": true,
     "LeetCode_Design_Bus_Seat_Booking_System": true,
     "LeetCode_Insert_Delete_GetRandom_O(1)": true,
-    "LeetCode_Maximum_Alternating_Sum_of_Squares": true
+    "LeetCode_Maximum_Alternating_Sum_of_Squares": true,
+    "LeetCode_Design_Twitter": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -65,9 +66,10 @@
     "2026-10-10": 1,
     "2026-10-11": 1,
     "2026-10-12": 8,
-    "2026-10-13": 1
+    "2026-10-13": 2
   },
   "todayProblems": [
-    "Maximum Alternating Sum of Squares"
+    "Maximum Alternating Sum of Squares",
+    "Design Twitter"
   ]
 }
