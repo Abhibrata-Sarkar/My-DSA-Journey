@@ -38,3 +38,4 @@
 | 36 | [Insert Delete GetRandom O(1)](./LeetCode/Medium/Insert%20Delete%20GetRandom%20O(1)) | [LeetCode](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | 12 Oct 2026 | 11:35 pm |
 | 37 | [Maximum Alternating Sum of Squares](./LeetCode/Medium/Maximum%20Alternating%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | 13 Oct 2026 | 11:20 am |
 | 38 | [Design Twitter](./LeetCode/Medium/Design%20Twitter) | [LeetCode](https://leetcode.com/problems/design-twitter/) | Medium | 13 Oct 2026 | 06:35 pm |
+| 39 | [Minimum Rotations to Dial a Number II](./LeetCode/Medium/Minimum%20Rotations%20to%20Dial%20a%20Number%20II) | [LeetCode](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) | Medium | 15 Oct 2026 | 01:55 am |
