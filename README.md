@@ -40,3 +40,4 @@
 | 38 | [Design Twitter](./LeetCode/Medium/Design%20Twitter) | [LeetCode](https://leetcode.com/problems/design-twitter/) | Medium | 13 Oct 2026 | 06:35 pm |
 | 39 | [Minimum Rotations to Dial a Number II](./LeetCode/Medium/Minimum%20Rotations%20to%20Dial%20a%20Number%20II) | [LeetCode](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) | Medium | 15 Oct 2026 | 01:55 am |
 | 40 | [Subarrays Distinct Element Sum of Squares I](./LeetCode/Easy/Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I) | [LeetCode](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Easy | 15 Oct 2026 | 11:06 am |
+| 41 | [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium | 24 Oct 2026 | 01:54 am |

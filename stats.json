@@ -1,12 +1,12 @@
 {
-  "totalSolved": 40,
+  "totalSolved": 41,
   "currentStreak": 1,
   "maxStreak": 16,
-  "lastSyncDate": "2026-10-15",
-  "todayCount": 2,
+  "lastSyncDate": "2026-10-24",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 24,
+    "medium": 25,
     "hard": 5,
     "basic": 0
   },
@@ -50,7 +50,8 @@
     "LeetCode_Maximum_Alternating_Sum_of_Squares": true,
     "LeetCode_Design_Twitter": true,
     "LeetCode_Minimum_Rotations_to_Dial_a_Number_II": true,
-    "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_I": true
+    "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_I": true,
+    "LeetCode_Maximum_K_to_Sort_a_Permutation": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -69,10 +70,10 @@
     "2026-10-11": 1,
     "2026-10-12": 8,
     "2026-10-13": 2,
-    "2026-10-15": 2
+    "2026-10-15": 2,
+    "2026-10-24": 1
   },
   "todayProblems": [
-    "Minimum Rotations to Dial a Number II",
-    "Subarrays Distinct Element Sum of Squares I"
+    "Maximum K to Sort a Permutation"
   ]
 }
