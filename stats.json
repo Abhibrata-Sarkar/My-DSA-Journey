@@ -1,12 +1,12 @@
 {
-  "totalSolved": 42,
-  "currentStreak": 1,
+  "totalSolved": 43,
+  "currentStreak": 2,
   "maxStreak": 16,
-  "lastSyncDate": "2026-10-24",
-  "todayCount": 2,
+  "lastSyncDate": "2026-10-25",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 25,
+    "medium": 26,
     "hard": 5,
     "basic": 0
   },
@@ -52,7 +52,8 @@
     "LeetCode_Minimum_Rotations_to_Dial_a_Number_II": true,
     "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_I": true,
     "LeetCode_Maximum_K_to_Sort_a_Permutation": true,
-    "LeetCode_Count_Days_Spent_Together": true
+    "LeetCode_Count_Days_Spent_Together": true,
+    "LeetCode_Number_of_Closed_Islands": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -72,10 +73,10 @@
     "2026-10-12": 8,
     "2026-10-13": 2,
     "2026-10-15": 2,
-    "2026-10-24": 2
+    "2026-10-24": 2,
+    "2026-10-25": 1
   },
   "todayProblems": [
-    "Maximum K to Sort a Permutation",
-    "Count Days Spent Together"
+    "Number of Closed Islands"
   ]
 }
