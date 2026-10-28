@@ -1,12 +1,12 @@
 {
-  "totalSolved": 45,
-  "currentStreak": 4,
+  "totalSolved": 46,
+  "currentStreak": 5,
   "maxStreak": 16,
-  "lastSyncDate": "2026-10-27",
+  "lastSyncDate": "2026-10-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 27,
+    "medium": 28,
     "hard": 5,
     "basic": 0
   },
@@ -55,7 +55,8 @@
     "LeetCode_Count_Days_Spent_Together": true,
     "LeetCode_Number_of_Closed_Islands": true,
     "LeetCode_Count_Islands_With_Total_Value_Divisible_by_K": true,
-    "LeetCode_Create_Grid_With_Exactly_One_Path": true
+    "LeetCode_Create_Grid_With_Exactly_One_Path": true,
+    "LeetCode_Minimum_XOR_Path_in_a_Grid": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -78,9 +79,10 @@
     "2026-10-24": 2,
     "2026-10-25": 1,
     "2026-10-26": 1,
-    "2026-10-27": 1
+    "2026-10-27": 1,
+    "2026-10-28": 1
   },
   "todayProblems": [
-    "Create Grid With Exactly One Path"
+    "Minimum XOR Path in a Grid"
   ]
 }
