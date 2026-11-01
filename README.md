@@ -51,3 +51,4 @@
 | 49 | [Twisted Mirror Path Count](./LeetCode/Medium/Twisted%20Mirror%20Path%20Count) | [LeetCode](https://leetcode.com/problems/twisted-mirror-path-count/) | Medium | 31 Oct 2026 | 04:37 pm |
 | 50 | [Minimum Interval Selection to Cover Target Intervals](./LeetCode/Hard/Minimum%20Interval%20Selection%20to%20Cover%20Target%20Intervals) | [LeetCode](https://leetcode.com/problems/minimum-interval-selection-to-cover-target-intervals/) | Hard | 31 Oct 2026 | 06:06 pm |
 | 51 | [Minimum Moves to Equal Array Elements](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Medium | 01 Nov 2026 | 12:39 pm |
+| 52 | [Minimum Value of Merged Integers](./LeetCode/Easy/Minimum%20Value%20of%20Merged%20Integers) | [LeetCode](https://leetcode.com/problems/minimum-value-of-merged-integers/) | Easy | 01 Nov 2026 | 03:25 pm |
