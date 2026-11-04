@@ -54,3 +54,4 @@
 | 52 | [Minimum Value of Merged Integers](./LeetCode/Easy/Minimum%20Value%20of%20Merged%20Integers) | [LeetCode](https://leetcode.com/problems/minimum-value-of-merged-integers/) | Easy | 01 Nov 2026 | 03:25 pm |
 | 53 | [Minimum Moves to Equal Array Elements II](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | 02 Nov 2026 | 06:46 pm |
 | 54 | [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | 03 Nov 2026 | 05:40 pm |
+| 55 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 04 Nov 2026 | 11:43 pm |
