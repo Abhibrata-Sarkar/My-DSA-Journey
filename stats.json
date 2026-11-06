@@ -1,12 +1,12 @@
 {
-  "totalSolved": 56,
-  "currentStreak": 7,
+  "totalSolved": 57,
+  "currentStreak": 8,
   "maxStreak": 16,
-  "lastSyncDate": "2026-11-05",
+  "lastSyncDate": "2026-11-06",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 32,
+    "medium": 33,
     "hard": 7,
     "basic": 0
   },
@@ -66,7 +66,8 @@
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements_II": true,
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true,
     "LeetCode_Pascal's_Triangle": true,
-    "LeetCode_Find_the_Distance_Value_Between_Two_Arrays": true
+    "LeetCode_Find_the_Distance_Value_Between_Two_Arrays": true,
+    "LeetCode_Minimum_Operations_to_Sort_With_Locked_Indices": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -97,9 +98,10 @@
     "2026-11-02": 1,
     "2026-11-03": 1,
     "2026-11-04": 1,
-    "2026-11-05": 1
+    "2026-11-05": 1,
+    "2026-11-06": 1
   },
   "todayProblems": [
-    "Find the Distance Value Between Two Arrays"
+    "Minimum Operations to Sort With Locked Indices"
   ]
 }
