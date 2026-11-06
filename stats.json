@@ -1,12 +1,12 @@
 {
-  "totalSolved": 57,
+  "totalSolved": 58,
   "currentStreak": 8,
   "maxStreak": 16,
   "lastSyncDate": "2026-11-06",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 33,
+    "medium": 34,
     "hard": 7,
     "basic": 0
   },
@@ -67,7 +67,8 @@
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true,
     "LeetCode_Pascal's_Triangle": true,
     "LeetCode_Find_the_Distance_Value_Between_Two_Arrays": true,
-    "LeetCode_Minimum_Operations_to_Sort_With_Locked_Indices": true
+    "LeetCode_Minimum_Operations_to_Sort_With_Locked_Indices": true,
+    "LeetCode_Minimize_the_Maximum_Value_of_GCD-Connected_Array": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -99,9 +100,10 @@
     "2026-11-03": 1,
     "2026-11-04": 1,
     "2026-11-05": 1,
-    "2026-11-06": 1
+    "2026-11-06": 2
   },
   "todayProblems": [
-    "Minimum Operations to Sort With Locked Indices"
+    "Minimum Operations to Sort With Locked Indices",
+    "Minimize the Maximum Value of GCD-Connected Array"
   ]
 }

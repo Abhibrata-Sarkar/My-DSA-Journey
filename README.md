@@ -57,3 +57,4 @@
 | 55 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 04 Nov 2026 | 11:43 pm |
 | 56 | [Find the Distance Value Between Two Arrays](./LeetCode/Easy/Find%20the%20Distance%20Value%20Between%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy | 05 Nov 2026 | 11:41 am |
 | 57 | [Minimum Operations to Sort With Locked Indices](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20With%20Locked%20Indices) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-with-locked-indices/) | Medium | 06 Nov 2026 | 09:35 am |
+| 58 | [Minimize the Maximum Value of GCD-Connected Array](./LeetCode/Medium/Minimize%20the%20Maximum%20Value%20of%20GCD-Connected%20Array) | [LeetCode](https://leetcode.com/problems/minimize-the-maximum-value-of-gcd-connected-array/) | Medium | 06 Nov 2026 | 06:30 pm |
