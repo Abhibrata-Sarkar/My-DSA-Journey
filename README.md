@@ -60,3 +60,4 @@
 | 58 | [Minimize the Maximum Value of GCD-Connected Array](./LeetCode/Medium/Minimize%20the%20Maximum%20Value%20of%20GCD-Connected%20Array) | [LeetCode](https://leetcode.com/problems/minimize-the-maximum-value-of-gcd-connected-array/) | Medium | 06 Nov 2026 | 06:30 pm |
 | 59 | [Process Tasks Using Servers](./LeetCode/Medium/Process%20Tasks%20Using%20Servers) | [LeetCode](https://leetcode.com/problems/process-tasks-using-servers/) | Medium | 07 Nov 2026 | 03:26 pm |
 | 60 | [Minimum Cost to Make Red Nodes Connected](./LeetCode/Medium/Minimum%20Cost%20to%20Make%20Red%20Nodes%20Connected) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-make-red-nodes-connected/) | Medium | 08 Nov 2026 | 11:49 am |
+| 61 | [Count Servers that Communicate](./LeetCode/Medium/Count%20Servers%20that%20Communicate) | [LeetCode](https://leetcode.com/problems/count-servers-that-communicate/) | Medium | 09 Nov 2026 | 12:32 am |
