@@ -61,3 +61,4 @@
 | 59 | [Process Tasks Using Servers](./LeetCode/Medium/Process%20Tasks%20Using%20Servers) | [LeetCode](https://leetcode.com/problems/process-tasks-using-servers/) | Medium | 07 Nov 2026 | 03:26 pm |
 | 60 | [Minimum Cost to Make Red Nodes Connected](./LeetCode/Medium/Minimum%20Cost%20to%20Make%20Red%20Nodes%20Connected) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-make-red-nodes-connected/) | Medium | 08 Nov 2026 | 11:49 am |
 | 61 | [Count Servers that Communicate](./LeetCode/Medium/Count%20Servers%20that%20Communicate) | [LeetCode](https://leetcode.com/problems/count-servers-that-communicate/) | Medium | 09 Nov 2026 | 12:32 am |
+| 62 | [Count Valid Suffix Sorts I](./LeetCode/Medium/Count%20Valid%20Suffix%20Sorts%20I) | [LeetCode](https://leetcode.com/problems/count-valid-suffix-sorts-i/) | Medium | 09 Nov 2026 | 06:56 pm |
