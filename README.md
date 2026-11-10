@@ -62,3 +62,4 @@
 | 60 | [Minimum Cost to Make Red Nodes Connected](./LeetCode/Medium/Minimum%20Cost%20to%20Make%20Red%20Nodes%20Connected) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-make-red-nodes-connected/) | Medium | 08 Nov 2026 | 11:49 am |
 | 61 | [Count Servers that Communicate](./LeetCode/Medium/Count%20Servers%20that%20Communicate) | [LeetCode](https://leetcode.com/problems/count-servers-that-communicate/) | Medium | 09 Nov 2026 | 12:32 am |
 | 62 | [Count Valid Suffix Sorts I](./LeetCode/Medium/Count%20Valid%20Suffix%20Sorts%20I) | [LeetCode](https://leetcode.com/problems/count-valid-suffix-sorts-i/) | Medium | 09 Nov 2026 | 06:56 pm |
+| 63 | [Climbing Stairs II](./LeetCode/Medium/Climbing%20Stairs%20II) | [LeetCode](https://leetcode.com/problems/climbing-stairs-ii/) | Medium | 10 Nov 2026 | 01:05 pm |
