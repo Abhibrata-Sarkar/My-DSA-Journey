@@ -1,12 +1,12 @@
 {
-  "totalSolved": 63,
-  "currentStreak": 12,
+  "totalSolved": 64,
+  "currentStreak": 13,
   "maxStreak": 16,
-  "lastSyncDate": "2026-11-10",
+  "lastSyncDate": "2026-11-11",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 39,
+    "medium": 40,
     "hard": 7,
     "basic": 0
   },
@@ -73,7 +73,8 @@
     "LeetCode_Minimum_Cost_to_Make_Red_Nodes_Connected": true,
     "LeetCode_Count_Servers_that_Communicate": true,
     "LeetCode_Count_Valid_Suffix_Sorts_I": true,
-    "LeetCode_Climbing_Stairs_II": true
+    "LeetCode_Climbing_Stairs_II": true,
+    "LeetCode_Minimum_Cost_to_Acquire_Required_Items": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -109,9 +110,10 @@
     "2026-11-07": 1,
     "2026-11-08": 1,
     "2026-11-09": 2,
-    "2026-11-10": 1
+    "2026-11-10": 1,
+    "2026-11-11": 1
   },
   "todayProblems": [
-    "Climbing Stairs II"
+    "Minimum Cost to Acquire Required Items"
   ]
 }
