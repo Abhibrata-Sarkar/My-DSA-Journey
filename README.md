@@ -64,3 +64,4 @@
 | 62 | [Count Valid Suffix Sorts I](./LeetCode/Medium/Count%20Valid%20Suffix%20Sorts%20I) | [LeetCode](https://leetcode.com/problems/count-valid-suffix-sorts-i/) | Medium | 09 Nov 2026 | 06:56 pm |
 | 63 | [Climbing Stairs II](./LeetCode/Medium/Climbing%20Stairs%20II) | [LeetCode](https://leetcode.com/problems/climbing-stairs-ii/) | Medium | 10 Nov 2026 | 01:05 pm |
 | 64 | [Minimum Cost to Acquire Required Items](./LeetCode/Medium/Minimum%20Cost%20to%20Acquire%20Required%20Items) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Medium | 11 Nov 2026 | 11:01 am |
+| 65 | [Count Valid Substrings I](./LeetCode/Medium/Count%20Valid%20Substrings%20I) | [LeetCode](https://leetcode.com/problems/count-valid-substrings-i/) | Medium | 12 Nov 2026 | 01:16 am |
