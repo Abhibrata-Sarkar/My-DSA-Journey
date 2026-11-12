@@ -66,3 +66,4 @@
 | 64 | [Minimum Cost to Acquire Required Items](./LeetCode/Medium/Minimum%20Cost%20to%20Acquire%20Required%20Items) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Medium | 11 Nov 2026 | 11:01 am |
 | 65 | [Count Valid Substrings I](./LeetCode/Medium/Count%20Valid%20Substrings%20I) | [LeetCode](https://leetcode.com/problems/count-valid-substrings-i/) | Medium | 12 Nov 2026 | 01:16 am |
 | 66 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./LeetCode/Easy/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) | [LeetCode](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | 12 Nov 2026 | 04:40 pm |
+| 67 | [Remove Elements by Type and Color](./LeetCode/Medium/Remove%20Elements%20by%20Type%20and%20Color) | [LeetCode](https://leetcode.com/problems/remove-elements-by-type-and-color/) | Medium | 12 Nov 2026 | 05:00 pm |

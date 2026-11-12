@@ -1,12 +1,12 @@
 {
-  "totalSolved": 66,
+  "totalSolved": 67,
   "currentStreak": 14,
   "maxStreak": 16,
   "lastSyncDate": "2026-11-12",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 18,
-    "medium": 41,
+    "medium": 42,
     "hard": 7,
     "basic": 0
   },
@@ -76,7 +76,8 @@
     "LeetCode_Climbing_Stairs_II": true,
     "LeetCode_Minimum_Cost_to_Acquire_Required_Items": true,
     "LeetCode_Count_Valid_Substrings_I": true,
-    "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true
+    "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true,
+    "LeetCode_Remove_Elements_by_Type_and_Color": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -114,10 +115,11 @@
     "2026-11-09": 2,
     "2026-11-10": 1,
     "2026-11-11": 1,
-    "2026-11-12": 2
+    "2026-11-12": 3
   },
   "todayProblems": [
     "Count Valid Substrings I",
-    "Longest Strictly Increasing or Strictly Decreasing Subarray"
+    "Longest Strictly Increasing or Strictly Decreasing Subarray",
+    "Remove Elements by Type and Color"
   ]
 }
