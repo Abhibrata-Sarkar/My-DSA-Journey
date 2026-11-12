@@ -65,3 +65,4 @@
 | 63 | [Climbing Stairs II](./LeetCode/Medium/Climbing%20Stairs%20II) | [LeetCode](https://leetcode.com/problems/climbing-stairs-ii/) | Medium | 10 Nov 2026 | 01:05 pm |
 | 64 | [Minimum Cost to Acquire Required Items](./LeetCode/Medium/Minimum%20Cost%20to%20Acquire%20Required%20Items) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Medium | 11 Nov 2026 | 11:01 am |
 | 65 | [Count Valid Substrings I](./LeetCode/Medium/Count%20Valid%20Substrings%20I) | [LeetCode](https://leetcode.com/problems/count-valid-substrings-i/) | Medium | 12 Nov 2026 | 01:16 am |
+| 66 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./LeetCode/Easy/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) | [LeetCode](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | 12 Nov 2026 | 04:40 pm |
