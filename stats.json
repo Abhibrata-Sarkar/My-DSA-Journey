@@ -1,13 +1,13 @@
 {
-  "totalSolved": 67,
-  "currentStreak": 14,
+  "totalSolved": 68,
+  "currentStreak": 15,
   "maxStreak": 16,
-  "lastSyncDate": "2026-11-12",
-  "todayCount": 3,
+  "lastSyncDate": "2026-11-13",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 18,
     "medium": 42,
-    "hard": 7,
+    "hard": 8,
     "basic": 0
   },
   "syncedProblems": {
@@ -77,7 +77,8 @@
     "LeetCode_Minimum_Cost_to_Acquire_Required_Items": true,
     "LeetCode_Count_Valid_Substrings_I": true,
     "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true,
-    "LeetCode_Remove_Elements_by_Type_and_Color": true
+    "LeetCode_Remove_Elements_by_Type_and_Color": true,
+    "LeetCode_Count_Non-Decreasing_Subarrays_After_K_Operations": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -115,11 +116,10 @@
     "2026-11-09": 2,
     "2026-11-10": 1,
     "2026-11-11": 1,
-    "2026-11-12": 3
+    "2026-11-12": 3,
+    "2026-11-13": 1
   },
   "todayProblems": [
-    "Count Valid Substrings I",
-    "Longest Strictly Increasing or Strictly Decreasing Subarray",
-    "Remove Elements by Type and Color"
+    "Count Non-Decreasing Subarrays After K Operations"
   ]
 }
