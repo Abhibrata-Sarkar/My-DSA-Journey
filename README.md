@@ -69,3 +69,4 @@
 | 67 | [Remove Elements by Type and Color](./LeetCode/Medium/Remove%20Elements%20by%20Type%20and%20Color) | [LeetCode](https://leetcode.com/problems/remove-elements-by-type-and-color/) | Medium | 12 Nov 2026 | 05:00 pm |
 | 68 | [Count Non-Decreasing Subarrays After K Operations](./LeetCode/Hard/Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations) | [LeetCode](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | Hard | 13 Nov 2026 | 10:35 pm |
 | 69 | [Minimum Positive Sum Subarray ](./LeetCode/Easy/Minimum%20Positive%20Sum%20Subarray%20) | [LeetCode](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Easy | 14 Nov 2026 | 01:23 pm |
+| 70 | [Count Valid Substrings II](./LeetCode/Medium/Count%20Valid%20Substrings%20II) | [LeetCode](https://leetcode.com/problems/count-valid-substrings-ii/) | Medium | 14 Nov 2026 | 07:22 pm |
