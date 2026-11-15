@@ -1,12 +1,12 @@
 {
-  "totalSolved": 70,
-  "currentStreak": 16,
-  "maxStreak": 16,
-  "lastSyncDate": "2026-11-14",
-  "todayCount": 2,
+  "totalSolved": 71,
+  "currentStreak": 17,
+  "maxStreak": 17,
+  "lastSyncDate": "2026-11-15",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 19,
-    "medium": 43,
+    "medium": 44,
     "hard": 8,
     "basic": 0
   },
@@ -80,7 +80,8 @@
     "LeetCode_Remove_Elements_by_Type_and_Color": true,
     "LeetCode_Count_Non-Decreasing_Subarrays_After_K_Operations": true,
     "LeetCode_Minimum_Positive_Sum_Subarray_": true,
-    "LeetCode_Count_Valid_Substrings_II": true
+    "LeetCode_Count_Valid_Substrings_II": true,
+    "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -120,10 +121,10 @@
     "2026-11-11": 1,
     "2026-11-12": 3,
     "2026-11-13": 1,
-    "2026-11-14": 2
+    "2026-11-14": 2,
+    "2026-11-15": 1
   },
   "todayProblems": [
-    "Minimum Positive Sum Subarray ",
-    "Count Valid Substrings II"
+    "Number of Sub-arrays With Odd Sum"
   ]
 }
