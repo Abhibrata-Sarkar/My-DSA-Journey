@@ -71,3 +71,4 @@
 | 69 | [Minimum Positive Sum Subarray ](./LeetCode/Easy/Minimum%20Positive%20Sum%20Subarray%20) | [LeetCode](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Easy | 14 Nov 2026 | 01:23 pm |
 | 70 | [Count Valid Substrings II](./LeetCode/Medium/Count%20Valid%20Substrings%20II) | [LeetCode](https://leetcode.com/problems/count-valid-substrings-ii/) | Medium | 14 Nov 2026 | 07:22 pm |
 | 71 | [Number of Sub-arrays With Odd Sum](./LeetCode/Medium/Number%20of%20Sub-arrays%20With%20Odd%20Sum) | [LeetCode](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium | 15 Nov 2026 | 09:37 pm |
+| 72 | [Calculate Digit Sum of a String](./LeetCode/Easy/Calculate%20Digit%20Sum%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy | 16 Nov 2026 | 05:09 pm |
