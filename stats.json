@@ -1,12 +1,12 @@
 {
-  "totalSolved": 72,
-  "currentStreak": 18,
-  "maxStreak": 18,
-  "lastSyncDate": "2026-11-16",
+  "totalSolved": 73,
+  "currentStreak": 19,
+  "maxStreak": 19,
+  "lastSyncDate": "2026-11-17",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 44,
+    "medium": 45,
     "hard": 8,
     "basic": 0
   },
@@ -82,7 +82,8 @@
     "LeetCode_Minimum_Positive_Sum_Subarray_": true,
     "LeetCode_Count_Valid_Substrings_II": true,
     "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true,
-    "LeetCode_Calculate_Digit_Sum_of_a_String": true
+    "LeetCode_Calculate_Digit_Sum_of_a_String": true,
+    "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -124,9 +125,10 @@
     "2026-11-13": 1,
     "2026-11-14": 2,
     "2026-11-15": 1,
-    "2026-11-16": 1
+    "2026-11-16": 1,
+    "2026-11-17": 1
   },
   "todayProblems": [
-    "Calculate Digit Sum of a String"
+    "Two Sum II - Input Array Is Sorted"
   ]
 }
