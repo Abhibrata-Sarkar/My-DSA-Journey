@@ -74,3 +74,4 @@
 | 72 | [Calculate Digit Sum of a String](./LeetCode/Easy/Calculate%20Digit%20Sum%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy | 16 Nov 2026 | 05:09 pm |
 | 73 | [Two Sum II - Input Array Is Sorted](./LeetCode/Medium/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | 17 Nov 2026 | 01:45 pm |
 | 74 | [Minimum Number of Changes to Make Binary String Beautiful](./LeetCode/Medium/Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful) | [LeetCode](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium | 19 Nov 2026 | 02:07 am |
+| 75 | [Minimum Score by Changing Two Elements](./LeetCode/Medium/Minimum%20Score%20by%20Changing%20Two%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium | 20 Nov 2026 | 12:58 pm |
