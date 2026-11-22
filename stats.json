@@ -1,11 +1,11 @@
 {
-  "totalSolved": 75,
-  "currentStreak": 2,
+  "totalSolved": 76,
+  "currentStreak": 1,
   "maxStreak": 19,
-  "lastSyncDate": "2026-11-20",
+  "lastSyncDate": "2026-11-22",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 20,
+    "easy": 21,
     "medium": 47,
     "hard": 8,
     "basic": 0
@@ -85,7 +85,8 @@
     "LeetCode_Calculate_Digit_Sum_of_a_String": true,
     "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
     "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true,
-    "LeetCode_Minimum_Score_by_Changing_Two_Elements": true
+    "LeetCode_Minimum_Score_by_Changing_Two_Elements": true,
+    "LeetCode_Check_if_All_A's_Appears_Before_All_B's": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -130,9 +131,10 @@
     "2026-11-16": 1,
     "2026-11-17": 1,
     "2026-11-19": 1,
-    "2026-11-20": 1
+    "2026-11-20": 1,
+    "2026-11-22": 1
   },
   "todayProblems": [
-    "Minimum Score by Changing Two Elements"
+    "Check if All A's Appears Before All B's"
   ]
 }
