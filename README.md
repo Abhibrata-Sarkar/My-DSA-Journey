@@ -77,3 +77,4 @@
 | 75 | [Minimum Score by Changing Two Elements](./LeetCode/Medium/Minimum%20Score%20by%20Changing%20Two%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium | 20 Nov 2026 | 12:58 pm |
 | 76 | [Check if All A's Appears Before All B's](./LeetCode/Easy/Check%20if%20All%20A's%20Appears%20Before%20All%20B's) | [LeetCode](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy | 22 Nov 2026 | 06:01 pm |
 | 77 | [Serialize and Deserialize Binary Tree](./LeetCode/Hard/Serialize%20and%20Deserialize%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | 23 Nov 2026 | 09:45 pm |
+| 78 | [Maximum Subarray With Equal Products](./LeetCode/Easy/Maximum%20Subarray%20With%20Equal%20Products) | [LeetCode](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | Easy | 25 Nov 2026 | 01:12 am |
