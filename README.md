@@ -79,3 +79,4 @@
 | 77 | [Serialize and Deserialize Binary Tree](./LeetCode/Hard/Serialize%20and%20Deserialize%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | 23 Nov 2026 | 09:45 pm |
 | 78 | [Maximum Subarray With Equal Products](./LeetCode/Easy/Maximum%20Subarray%20With%20Equal%20Products) | [LeetCode](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | Easy | 25 Nov 2026 | 01:12 am |
 | 79 | [Longest Substring with At Least K Repeating Characters](./LeetCode/Medium/Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | Medium | 25 Nov 2026 | 05:31 pm |
+| 80 | [Stone Removal Game](./LeetCode/Easy/Stone%20Removal%20Game) | [LeetCode](https://leetcode.com/problems/stone-removal-game/) | Easy | 26 Nov 2026 | 07:09 pm |
