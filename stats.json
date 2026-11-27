@@ -1,12 +1,12 @@
 {
-  "totalSolved": 80,
-  "currentStreak": 2,
+  "totalSolved": 81,
+  "currentStreak": 3,
   "maxStreak": 19,
-  "lastSyncDate": "2026-11-26",
+  "lastSyncDate": "2026-11-27",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 48,
+    "medium": 49,
     "hard": 9,
     "basic": 0
   },
@@ -90,7 +90,8 @@
     "LeetCode_Serialize_and_Deserialize_Binary_Tree": true,
     "LeetCode_Maximum_Subarray_With_Equal_Products": true,
     "LeetCode_Longest_Substring_with_At_Least_K_Repeating_Characters": true,
-    "LeetCode_Stone_Removal_Game": true
+    "LeetCode_Stone_Removal_Game": true,
+    "LeetCode_Maximum_Number_of_Items_From_Sale_I": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -139,9 +140,10 @@
     "2026-11-22": 1,
     "2026-11-23": 1,
     "2026-11-25": 2,
-    "2026-11-26": 1
+    "2026-11-26": 1,
+    "2026-11-27": 1
   },
   "todayProblems": [
-    "Stone Removal Game"
+    "Maximum Number of Items From Sale I"
   ]
 }
