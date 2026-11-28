@@ -1,12 +1,12 @@
 {
-  "totalSolved": 81,
-  "currentStreak": 3,
+  "totalSolved": 82,
+  "currentStreak": 4,
   "maxStreak": 19,
-  "lastSyncDate": "2026-11-27",
+  "lastSyncDate": "2026-11-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 49,
+    "medium": 50,
     "hard": 9,
     "basic": 0
   },
@@ -91,7 +91,8 @@
     "LeetCode_Maximum_Subarray_With_Equal_Products": true,
     "LeetCode_Longest_Substring_with_At_Least_K_Repeating_Characters": true,
     "LeetCode_Stone_Removal_Game": true,
-    "LeetCode_Maximum_Number_of_Items_From_Sale_I": true
+    "LeetCode_Maximum_Number_of_Items_From_Sale_I": true,
+    "LeetCode_Longest_Increasing_Subsequence": true
   },
   "activityHistory": {
     "2026-09-28": 9,
@@ -141,9 +142,10 @@
     "2026-11-23": 1,
     "2026-11-25": 2,
     "2026-11-26": 1,
-    "2026-11-27": 1
+    "2026-11-27": 1,
+    "2026-11-28": 1
   },
   "todayProblems": [
-    "Maximum Number of Items From Sale I"
+    "Longest Increasing Subsequence"
   ]
 }

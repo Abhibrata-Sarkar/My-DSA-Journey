@@ -81,3 +81,4 @@
 | 79 | [Longest Substring with At Least K Repeating Characters](./LeetCode/Medium/Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | Medium | 25 Nov 2026 | 05:31 pm |
 | 80 | [Stone Removal Game](./LeetCode/Easy/Stone%20Removal%20Game) | [LeetCode](https://leetcode.com/problems/stone-removal-game/) | Easy | 26 Nov 2026 | 07:09 pm |
 | 81 | [Maximum Number of Items From Sale I](./LeetCode/Medium/Maximum%20Number%20of%20Items%20From%20Sale%20I) | [LeetCode](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | Medium | 27 Nov 2026 | 07:05 pm |
+| 82 | [Longest Increasing Subsequence](./LeetCode/Medium/Longest%20Increasing%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | 28 Nov 2026 | 10:17 pm |
